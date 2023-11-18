@@ -19,7 +19,7 @@ pip install tensorflow matplotlib numpy imageio
 ## Usage:
 ### Clone the repository:
 ```
-git clone https://github.com/your-username/style-transfer.git
+https://github.com/Anuj2906/DashToon_Generative_AI_Assignment.git
 cd style-transfer
 ```
 Open and run the style_transfer.ipynb Jupyter notebook.
