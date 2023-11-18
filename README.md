@@ -35,10 +35,15 @@ Run the notebook cells to perform style transfer and visualize the results.
 Adjust the following parameters in the notebook to control the style transfer process:
 
 style_weight: Weight given to the style loss.
+
 content_weight: Weight given to the content loss.
+
 optimizer: Optimizer for updating the input image.
+
 epochs: Number of training epochs.
+
 steps_per_epoch: Steps per epoch.
+
 
 Experiment with these parameters to achieve the desired stylized output.
 
